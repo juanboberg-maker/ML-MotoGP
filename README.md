@@ -98,18 +98,5 @@ Como mejoras futuras se propone aplicar SMOTE para el desbalance, implementar fe
 - scikit-learn (KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, GridSearchCV, StratifiedKFold)
 - matplotlib, seaborn
 
----
-
-## Cómo ejecutar
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/motogp-ml.git
-cd motogp-ml
-
-# 2. Instalar dependencias
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-
-# 3. Abrir el notebook
-jupyter notebook MotoGP_ML_Juan_Boberg.ipynb
-```
+## Presentación 
+https://canva.link/w41qxnh8ygrmyg9
